@@ -12,5 +12,6 @@ Courses
 9. CS236:Deep Generative Models - https://deepgenerativemodels.github.io/
 10. CS234: Reinforcement Learning - https://web.stanford.edu/class/cs234/CS234Win2018/index.html
 11. Google ML CrashCourse - https://developers.google.com/machine-learning/crash-course
+
 Python
 1. fast.ai resources https://forums.fast.ai/t/recommended-python-learning-resources/26888
