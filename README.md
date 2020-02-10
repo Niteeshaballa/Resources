@@ -14,5 +14,24 @@ Courses
 11. Google ML CrashCourse - https://developers.google.com/machine-learning/crash-course
 12. Computational Linear Algebra For Coders - https://www.fast.ai/2017/07/17/num-lin-alg/
 
+Books
+1. Deep Learning with python - Franchois chollet -https://www.academia.edu/40817740/Deep_Learning_with_Python
+2. Deep learning with python – Jason BrownLee
+3. Master machine learning algorithms – Jason BrownLee
+4. Deep learning for nlp – Jason Brownlee
+5. Machine learning mastery with python -Jason brownlee
+6. Introduction to time series forecasting with python – Jason brownlee
+7. Hands-on Machine learning with scikit-learn and tensorflow 
+8. The hundred page machine learning book – andriy burkov
+9. Deep learning with pytorch- Vishnu Subramanian -Packt
+10. NLP with pytorch – Packt
+11. Machine learning yearning – Andrew NG
+
+Important Links
+1. http://colah.github.io/
+2. https://ruder.io/
+3. https://cs231n.github.io/
+
+
 Python
 1. fast.ai resources https://forums.fast.ai/t/recommended-python-learning-resources/26888
