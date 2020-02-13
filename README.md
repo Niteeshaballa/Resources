@@ -26,6 +26,8 @@ Books
 9. Deep learning with pytorch- Vishnu Subramanian -Packt
 10. NLP with pytorch – Packt
 11. Machine learning yearning – Andrew NG
+12. neuralnetworksanddeeplearning - http://neuralnetworksanddeeplearning.com/index.html
+13. Deep Learning Book - Ian GoodFellow http://faculty.neu.edu.cn/yury/AAI/Textbook/DeepLearningBook.pdf
 
 Important Links
 1. http://colah.github.io/
