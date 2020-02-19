@@ -37,3 +37,15 @@ Important Links
 
 Python
 1. fast.ai resources https://forums.fast.ai/t/recommended-python-learning-resources/26888
+
+Research Papers
+1. Visualizing and Understanding Convolutional Networks - https://arxiv.org/pdf/1311.2901.pdf
+2. Network in Network - https://arxiv.org/pdf/1312.4400.pdf
+3. ResNet - Deep Residual Learning for Image Recognition - https://arxiv.org/pdf/1512.03385.pdf
+4. AlexNet - ImageNet Classification with Deep Convolutional Neural Networks - https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
+5. VGGNet - Very Deep Convolutional Networks for Large-Scale Image Recognition - https://arxiv.org/pdf/1409.1556.pdf
+6. Cats and Dogs Dataset - https://www.robots.ox.ac.uk/~vgg/publications/2012/parkhi12a/parkhi12a.pdf
+7. Cyclical Learning Rates for Training Neural Networks - https://arxiv.org/pdf/1506.01186.pdf
+8. Universal Language Model Fine-tuning for Text Classiﬁcation - https://arxiv.org/pdf/1801.06146.pdf
+9. U-Net: Convolutional Networks for Biomedical Image Segmentation - https://arxiv.org/pdf/1505.04597.pdf
+
