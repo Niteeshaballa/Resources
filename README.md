@@ -49,4 +49,5 @@ Research Papers
 8. Universal Language Model Fine-tuning for Text Classiﬁcation - https://arxiv.org/pdf/1801.06146.pdf
 9. U-Net: Convolutional Networks for Biomedical Image Segmentation - https://arxiv.org/pdf/1505.04597.pdf
 10. Dropout: A Simple Way to Prevent Neural Networks from Overfitting - http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf
+11. Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift - https://arxiv.org/pdf/1502.03167.pdf
 
