@@ -50,4 +50,5 @@ Research Papers
 9. U-Net: Convolutional Networks for Biomedical Image Segmentation - https://arxiv.org/pdf/1505.04597.pdf
 10. Dropout: A Simple Way to Prevent Neural Networks from Overfitting - http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf
 11. Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift - https://arxiv.org/pdf/1502.03167.pdf
+12. Grad-CAM: Visual Explanations from Deep Networksvia Gradient-based Localization - https://arxiv.org/pdf/1610.02391.pdf
 
