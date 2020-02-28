@@ -51,4 +51,5 @@ Research Papers
 10. Dropout: A Simple Way to Prevent Neural Networks from Overfitting - http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf
 11. Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift - https://arxiv.org/pdf/1502.03167.pdf
 12. Grad-CAM: Visual Explanations from Deep Networksvia Gradient-based Localization - https://arxiv.org/pdf/1610.02391.pdf
+13. A guide to convolution arithmetic for deep learning - https://arxiv.org/pdf/1603.07285.pdf
 
