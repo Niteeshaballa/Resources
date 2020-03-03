@@ -52,4 +52,5 @@ Research Papers
 11. Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift - https://arxiv.org/pdf/1502.03167.pdf
 12. Grad-CAM: Visual Explanations from Deep Networksvia Gradient-based Localization - https://arxiv.org/pdf/1610.02391.pdf
 13. A guide to convolution arithmetic for deep learning - https://arxiv.org/pdf/1603.07285.pdf
+14. Visualizing the Loss Landscape of Neural Nets - https://arxiv.org/pdf/1712.09913.pdf
 
