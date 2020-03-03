@@ -53,4 +53,5 @@ Research Papers
 12. Grad-CAM: Visual Explanations from Deep Networksvia Gradient-based Localization - https://arxiv.org/pdf/1610.02391.pdf
 13. A guide to convolution arithmetic for deep learning - https://arxiv.org/pdf/1603.07285.pdf
 14. Visualizing the Loss Landscape of Neural Nets - https://arxiv.org/pdf/1712.09913.pdf
+15. Wasserstein GAN - https://arxiv.org/pdf/1701.07875.pdf
 
