@@ -54,4 +54,5 @@ Research Papers
 13. A guide to convolution arithmetic for deep learning - https://arxiv.org/pdf/1603.07285.pdf
 14. Visualizing the Loss Landscape of Neural Nets - https://arxiv.org/pdf/1712.09913.pdf
 15. Wasserstein GAN - https://arxiv.org/pdf/1701.07875.pdf
+16. Perceptual Losses for Real-Time Style Transfer and Super-Resolution - https://arxiv.org/pdf/1603.08155.pdf
 
