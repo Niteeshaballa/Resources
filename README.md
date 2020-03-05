@@ -1,8 +1,8 @@
-### Resources
+# Resources
 ## Machine Learning
-# Courses
+### Courses
 1. [Machine Learning - Stanford - Coursera](https://www.coursera.org/learn/machine-learning?)
-2. Deep Learning Specialization - Coursera - https://www.coursera.org/specializations/deep-learning
+2. [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)
 3. Machine Learning A-Z™: Hands-On Python & R In Data Science - Udemy - https://www.udemy.com/course/machinelearning/
 4. Deep Learning A-Z™: Hands-On Artificial Neural Networks - Udemy - https://www.udemy.com/course/deeplearning/
 5. Practical Deep Learning for Coders, v3 - https://course.fast.ai/
@@ -14,7 +14,7 @@
 11. Google ML CrashCourse - https://developers.google.com/machine-learning/crash-course
 12. Computational Linear Algebra For Coders - https://www.fast.ai/2017/07/17/num-lin-alg/
 
-#Books
+### Books
 1. Deep Learning with python - Franchois chollet -https://www.academia.edu/40817740/Deep_Learning_with_Python
 2. Deep learning with python – Jason BrownLee
 3. Master machine learning algorithms – Jason BrownLee
@@ -37,10 +37,10 @@ Important Links
 5. https://deepai.org/ - updates in DL and AI
 
 
-Python
+### Python
 1. fast.ai resources https://forums.fast.ai/t/recommended-python-learning-resources/26888
 
-Research Papers
+### Research Papers
 1. Visualizing and Understanding Convolutional Networks - https://arxiv.org/pdf/1311.2901.pdf
 2. Network in Network - https://arxiv.org/pdf/1312.4400.pdf
 3. ResNet - Deep Residual Learning for Image Recognition - https://arxiv.org/pdf/1512.03385.pdf
