@@ -1,7 +1,7 @@
 ### Resources
-##Machine Learning
-#Courses
-1. [Machine Learning - Stanford - Coursera] - (https://www.coursera.org/learn/machine-learning?)
+## Machine Learning
+# Courses
+1. [Machine Learning - Stanford - Coursera](https://www.coursera.org/learn/machine-learning?)
 2. Deep Learning Specialization - Coursera - https://www.coursera.org/specializations/deep-learning
 3. Machine Learning A-Z™: Hands-On Python & R In Data Science - Udemy - https://www.udemy.com/course/machinelearning/
 4. Deep Learning A-Z™: Hands-On Artificial Neural Networks - Udemy - https://www.udemy.com/course/deeplearning/
