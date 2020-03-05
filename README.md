@@ -3,8 +3,8 @@
 ### Courses
 1. [Machine Learning - Stanford - Coursera](https://www.coursera.org/learn/machine-learning?)
 2. [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)
-3. Machine Learning A-Z™: Hands-On Python & R In Data Science - Udemy - https://www.udemy.com/course/machinelearning/
-4. Deep Learning A-Z™: Hands-On Artificial Neural Networks - Udemy - https://www.udemy.com/course/deeplearning/
+3. [Machine Learning A-Z™: Hands-On Python & R In Data Science - Udemy](https://www.udemy.com/course/machinelearning/)
+4. [Deep Learning A-Z™: Hands-On Artificial Neural Networks - Udemy](https://www.udemy.com/course/deeplearning/)
 5. Practical Deep Learning for Coders, v3 - https://course.fast.ai/
 6. CS230 Deep Learning- https://cs230.stanford.edu/
 7. CS231n: Convolutional Neural Networks for Visual Recognition - http://cs231n.stanford.edu/
@@ -15,7 +15,7 @@
 12. Computational Linear Algebra For Coders - https://www.fast.ai/2017/07/17/num-lin-alg/
 
 ### Books
-1. Deep Learning with python - Franchois chollet -https://www.academia.edu/40817740/Deep_Learning_with_Python
+1. [Deep Learning with python - Franchois chollet](https://www.academia.edu/40817740/Deep_Learning_with_Python)
 2. Deep learning with python – Jason BrownLee
 3. Master machine learning algorithms – Jason BrownLee
 4. Deep learning for nlp – Jason Brownlee
@@ -29,7 +29,7 @@
 12. neuralnetworksanddeeplearning - http://neuralnetworksanddeeplearning.com/index.html
 13. Deep Learning Book - Ian GoodFellow http://faculty.neu.edu.cn/yury/AAI/Textbook/DeepLearningBook.pdf
 
-Important Links
+### Important Links
 1. http://colah.github.io/
 2. https://ruder.io/
 3. https://cs231n.github.io/
