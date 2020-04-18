@@ -58,10 +58,10 @@
 15. Wasserstein GAN - https://arxiv.org/pdf/1701.07875.pdf
 16. Perceptual Losses for Real-Time Style Transfer and Super-Resolution - https://arxiv.org/pdf/1603.08155.pdf
 
-###Topic wise Resources
-####Gradient Descent 
+### Topic wise Resources
+#### Gradient Descent 
 1.Emergence of GD - https://cs231n.github.io/optimization-1/
 
-####Optimization Algorithms
+#### Optimization Algorithms
 1.https://ruder.io/optimizing-gradient-descent/index.html
 2.https://ruder.io/deep-learning-optimization-2017/
