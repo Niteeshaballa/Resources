@@ -63,5 +63,5 @@
 1.Emergence of GD - https://cs231n.github.io/optimization-1/
 
 #### Optimization Algorithms
-1.https://ruder.io/optimizing-gradient-descent/index.html
-2.https://ruder.io/deep-learning-optimization-2017/
+1. https://ruder.io/optimizing-gradient-descent/index.html
+2. https://ruder.io/deep-learning-optimization-2017/
