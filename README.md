@@ -60,7 +60,9 @@
 
 ### Topic wise Resources
 #### Gradient Descent 
-1.Emergence of GD - https://cs231n.github.io/optimization-1/
+1. Emergence of GD - https://cs231n.github.io/optimization-1/
+2. Gradient Checks - https://cs231n.github.io/neural-networks-3/
+
 
 #### Optimization Algorithms
 1. https://ruder.io/optimizing-gradient-descent/index.html
