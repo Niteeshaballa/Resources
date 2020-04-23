@@ -37,7 +37,9 @@
 5. https://deepai.org/ - updates in DL and AI
 6. Research Papers - http://www.arxiv-sanity.com/
 7. http://karpathy.github.io/
-
+8. https://www.machinelearningisfun.com/
+9. http://deeplearning.net/
+10. https://distill.pub/
 
 ### Python
 1. fast.ai resources https://forums.fast.ai/t/recommended-python-learning-resources/26888
