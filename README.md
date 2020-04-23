@@ -35,6 +35,8 @@
 3. https://cs231n.github.io/
 4. https://github.com/jantic/DeOldify
 5. https://deepai.org/ - updates in DL and AI
+6. Research Papers - http://www.arxiv-sanity.com/
+7. http://karpathy.github.io/
 
 
 ### Python
@@ -65,5 +67,6 @@
 
 
 #### Optimization Algorithms
-1. https://ruder.io/optimizing-gradient-descent/index.html
-2. https://ruder.io/deep-learning-optimization-2017/
+1. Gradient Descent Optimization algorithms - https://ruder.io/optimizing-gradient-descent/index.html
+2. Improvements - https://ruder.io/deep-learning-optimization-2017/
+3. https://johnchenresearch.github.io/demon/
