@@ -63,6 +63,10 @@
 16. Perceptual Losses for Real-Time Style Transfer and Super-Resolution - https://arxiv.org/pdf/1603.08155.pdf
 
 ### Topic wise Resources
+#### Dataset shift/ drift
+1. Covariate shift - https://dkopczyk.quantee.co.uk/covariate_shift/
+
+
 #### Gradient Descent 
 1. Emergence of GD - https://cs231n.github.io/optimization-1/
 2. Gradient Checks - https://cs231n.github.io/neural-networks-3/
