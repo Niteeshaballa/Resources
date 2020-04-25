@@ -87,3 +87,8 @@
 1. Gradient Descent Optimization algorithms - https://ruder.io/optimizing-gradient-descent/index.html
 2. Improvements - https://ruder.io/deep-learning-optimization-2017/
 3. https://johnchenresearch.github.io/demon/
+
+
+#### Orthogonalization
+1. https://mc.ai/what-is-orthogonalization-in-machine-learning/
+2. https://medium.com/@rajathbharadwaj/how-does-orthogonalization-relate-to-machine-learning-a61a8aedf0e6
