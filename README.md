@@ -69,6 +69,14 @@
 1. Covariate shift - https://dkopczyk.quantee.co.uk/covariate_shift/
 2. Types, causes and remediations for dataset shift - https://towardsdatascience.com/understanding-dataset-shift-f2a5a262a766
 
+#### Normalization
+1. https://mlexplained.com/2018/11/30/an-overview-of-normalization-methods-in-deep-learning/
+2. https://medium.com/techspace-usict/normalization-techniques-in-deep-neural-networks-9121bf100d8
+##### Batch Normalization
+1. Implementation with back prop - https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html
+2. https://www.youtube.com/watch?v=nUUqwaxLnWs
+3. https://www.youtube.com/watch?v=gYpoJMlgyXA&feature=youtu.be&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&t=3078
+
 
 #### Gradient Descent 
 1. Emergence of GD - https://cs231n.github.io/optimization-1/
