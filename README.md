@@ -67,6 +67,7 @@
 ### Topic wise Resources
 #### Dataset shift/ drift
 1. Covariate shift - https://dkopczyk.quantee.co.uk/covariate_shift/
+2. Types, causes and remediations for dataset shift - https://towardsdatascience.com/understanding-dataset-shift-f2a5a262a766
 
 
 #### Gradient Descent 
