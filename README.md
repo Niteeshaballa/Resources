@@ -92,3 +92,6 @@
 #### Orthogonalization
 1. https://mc.ai/what-is-orthogonalization-in-machine-learning/
 2. https://medium.com/@rajathbharadwaj/how-does-orthogonalization-relate-to-machine-learning-a61a8aedf0e6
+
+#### Initializing weights
+1. https://towardsdatascience.com/weight-initialization-techniques-in-neural-networks-26c649eb3b78
