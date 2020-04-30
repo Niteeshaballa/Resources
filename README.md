@@ -95,3 +95,7 @@
 
 #### Initializing weights
 1. https://towardsdatascience.com/weight-initialization-techniques-in-neural-networks-26c649eb3b78
+
+
+#### CNNs models 
+1. Image Classification, Object Localization, Object Detection, Sliding Window(Overfeat), R-CNN , Fast R-CNN , Faster R-CNN - CS231n (winter 2016) lecture & Dl.ai(C4W3).
