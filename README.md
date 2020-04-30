@@ -98,4 +98,5 @@
 
 
 #### CNNs models 
-1. Image Classification, Object Localization, Object Detection, Sliding Window(Overfeat), R-CNN , Fast R-CNN , Faster R-CNN - CS231n (winter 2016) lecture & Dl.ai(C4W3).
+1. Image Classification, Object Localization, Object Detection, Sliding Window(Overfeat), R-CNN , Fast R-CNN , Faster R-CNN - CS231n (winter 2016) lecture & Dl.ai(C4W3). papers - Alexnet, VGG, Resnet, Rcnn, fast rcnn, faster rcnn, yolo.
+2. Semantic Segmentation - CS231n (2017) lecture 11 - Papers: Fully CNN for SS , learning deconv for SS
