@@ -103,3 +103,4 @@
 3. Face Verification - Papers: DeepFace, FaceNet
 4. One Shot learning using siamese Network with basic loss function - https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d
 5. Siamese Network with Triplet Loss Function - https://medium.com/@crimy/one-shot-learning-siamese-networks-and-triplet-loss-with-keras-2885ed022352
+6. Art Generation (Neural Style Transfer) - paper: A neural algorithm of artistic style
