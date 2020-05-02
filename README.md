@@ -42,6 +42,7 @@
 8. https://www.machinelearningisfun.com/
 9. http://deeplearning.net/
 10. https://distill.pub/
+11. Art Generation - https://deepart.io/
 
 ### Python
 1. fast.ai resources https://forums.fast.ai/t/recommended-python-learning-resources/26888
