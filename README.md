@@ -106,3 +106,9 @@
 5. Siamese Network with Triplet Loss Function - https://medium.com/@crimy/one-shot-learning-siamese-networks-and-triplet-loss-with-keras-2885ed022352
 6. Art Generation (Neural Style Transfer) - paper: A neural algorithm of artistic style, last part of lecture CS231n 2017.
 7. Visualization of CNNs - CS230 Lecture 7
+
+#### RNNs
+1. Explanation of RNNs, Types , BP , LSTM, Image Captioning - CS231n 2017 lecture 10
+2. LSTMs - chris olah blog
+3. Visualizing and Understanding RNNs - paper
+
