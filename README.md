@@ -109,6 +109,8 @@
 
 #### RNNs
 1. Explanation of RNNs, Types , BP , LSTM, Image Captioning - CS231n 2017 lecture 10
-2. LSTMs - chris olah blog
+2. LSTMs - chris olah blog , Paper:LSTM
 3. Visualizing and Understanding RNNs - paper
+4. Speech Recognition - CTC Paper
+5. NLP , word Embeddings - 
 
