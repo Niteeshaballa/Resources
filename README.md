@@ -113,4 +113,6 @@
 3. Visualizing and Understanding RNNs - paper
 4. Speech Recognition - CTC Paper
 5. NLP , word Embeddings - 
+6. Blue Score - paper: A method for automatic evaluation of machine translation
+7. Attention Model - paper:Neural machine translation by jointly learning to align and translate, for image captioning - Show , attend and Tell: Neural image caption generation with visual attention.
 
