@@ -30,4 +30,12 @@
 
 
 ### Lesson 4
-- 
+- Language Models
+- ULMFit for sentiment analysis
+- Tabular data - Adult dataset
+- Collaborative filtering using movielens dataset
+- cold start problem
+- Demonstartion of collaborative filtering using excel sheet.
+
+#### Papers
+1. ULMFit - https://arxiv.org/pdf/1801.06146.pdf
