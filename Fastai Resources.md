@@ -39,3 +39,16 @@
 
 #### Papers
 1. ULMFit - https://arxiv.org/pdf/1801.06146.pdf
+
+
+### Lesson 5
+- Explanation of cnn_learner(), fit, discriminative lr in fastai.
+- Explanation of embeddings in collaborative filtering
+- Explanation of optimization algorithms in Excel sheet.
+- softmax and CrossEntropyLoss details.
+
+#### Links
+1. Collaborative filtering in Netflix - https://towardsdatascience.com/netflix-and-chill-building-a-recommendation-system-in-excel-c69b33c914f4
+2. GD techniques by sebasian ruder - https://ruder.io/optimizing-gradient-descent/
+
+
