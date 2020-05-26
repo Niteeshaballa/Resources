@@ -56,10 +56,13 @@
 - Platform.ai is used to label images in a easy way.
 - Tabluar data (Regression) - Rossmann store sales data
 - Dropout , Batch Normalization, data augmentation
+- convolutions explanation.
 
 #### Links
 1. platform.ai - https://platform.ai/ 
 2. Dropout paper - https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
 3. Batch Normalization paper - https://arxiv.org/pdf/1502.03167.pdf
-
+4. How Convolutions work - https://brohrer.github.io/how_convolutional_neural_networks_work.html
+5. Classification loss diff - https://gombru.github.io/2018/05/23/cross_entropy_loss/
+6. BERT LM - https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
 
