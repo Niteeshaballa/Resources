@@ -52,3 +52,14 @@
 2. GD techniques by sebasian ruder - https://ruder.io/optimizing-gradient-descent/
 
 
+### Lesson 6
+- Platform.ai is used to label images in a easy way.
+- Tabluar data (Regression) - Rossmann store sales data
+- Dropout , Batch Normalization, data augmentation
+
+#### Links
+1. platform.ai - https://platform.ai/ 
+2. Dropout paper - https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
+3. Batch Normalization paper - https://arxiv.org/pdf/1502.03167.pdf
+
+
