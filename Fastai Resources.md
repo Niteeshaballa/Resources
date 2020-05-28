@@ -66,3 +66,15 @@
 5. Classification loss diff - https://gombru.github.io/2018/05/23/cross_entropy_loss/
 6. BERT LM - https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
 
+### Lesson 7
+- Resnet with MNIST , custom CNN layers.
+- food classifier - https://apps.apple.com/us/app/food-classifier/id1445356461
+- Explanation of Resnets , DenseNets, UNets.
+- Image Generation tasks.
+
+#### Links
+1. Resnets paper - https://arxiv.org/pdf/1512.03385.pdf
+2. Visualizing Loss paper - https://arxiv.org/pdf/1712.09913.pdf
+3. DenseNets - https://arxiv.org/pdf/1608.06993.pdf
+4. UNets - https://arxiv.org/pdf/1505.04597.pdf
+
