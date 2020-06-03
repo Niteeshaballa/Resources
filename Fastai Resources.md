@@ -71,10 +71,16 @@
 - food classifier - https://apps.apple.com/us/app/food-classifier/id1445356461
 - Explanation of Resnets , DenseNets, UNets.
 - Image Generation tasks.
+- Low res to high res images using GANs.
+- low res to high res images with WGAN - LSUN bedroom dataset.
+- superres notebook with vgg16 using perceptual losses.
+- Explanation of RNNs with human numbers notebook.
 
 #### Links
 1. Resnets paper - https://arxiv.org/pdf/1512.03385.pdf
 2. Visualizing Loss paper - https://arxiv.org/pdf/1712.09913.pdf
 3. DenseNets - https://arxiv.org/pdf/1608.06993.pdf
 4. UNets - https://arxiv.org/pdf/1505.04597.pdf
+5. Perceptual Losses - https://arxiv.org/pdf/1603.08155.pdf
+
 
