@@ -84,3 +84,18 @@
 5. Perceptual Losses - https://arxiv.org/pdf/1603.08155.pdf
 
 
+### Lesson 8
+- Overview of the course
+- Swift , Julia and halide languages
+- How to build a library - 00_exports notebook
+- Matmul notebook - forbenius norm, elementwise matmul, broadcasting, Einstein summation, pytorch matmul()
+- cublas, mkl - GPU languages
+- 02_fullyconnected notebook - initialization explanationn, forward , backward pass.
+
+
+#### Links
+1. Detexify - https://detexify.kirelabs.org/classify.html
+2. FIXUP INITIALIZATION: RESIDUAL LEARNING WITHOUT NORMALIZATION - https://arxiv.org/pdf/1901.09321.pdf
+3. He initialization - https://arxiv.org/pdf/1502.01852.pdf
+4. Xavier initialization - http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf
+5. Matrix calculation you need for DL - https://arxiv.org/pdf/1802.01528.pdf
