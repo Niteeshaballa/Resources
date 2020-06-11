@@ -99,3 +99,8 @@
 3. He initialization - https://arxiv.org/pdf/1502.01852.pdf
 4. Xavier initialization - http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf
 5. Matrix calculation you need for DL - https://arxiv.org/pdf/1802.01528.pdf
+
+
+
+
+Ten techniques from fastai - https://blog.floydhub.com/ten-techniques-from-fast-ai/
