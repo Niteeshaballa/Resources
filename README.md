@@ -14,6 +14,9 @@
 11. Google ML CrashCourse - https://developers.google.com/machine-learning/crash-course
 12. Computational Linear Algebra For Coders - https://www.fast.ai/2017/07/17/num-lin-alg/
 13. CS229: Machine Learning - http://cs229.stanford.edu/syllabus-autumn2018.html
+14. NLP Specialization coursera
+15. Tensorflow specialization coursera
+
 
 
 ### Books
