@@ -22,6 +22,7 @@
 - Pandas - https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y
 - Test Pandas - https://www.kaggle.com/learn/pandas
 - Pytorch - https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG
+- DL with Pytorch - Coursera, Udacity
 - Practice challenges - https://www.kaggle.com/learn/overview
 
 
