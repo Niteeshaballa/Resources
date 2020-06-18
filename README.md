@@ -17,7 +17,17 @@
 14. NLP Specialization coursera
 15. Tensorflow specialization coursera
 
+### Libraries
+- Numpy practice - https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy?ex=2
+- Pandas - https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y
+- Test Pandas - https://www.kaggle.com/learn/pandas
+- Pytorch - https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG
+- Practice challenges - https://www.kaggle.com/learn/overview
 
+
+### Python
+1. fast.ai resources https://forums.fast.ai/t/recommended-python-learning-resources/26888
+2. https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1
 
 ### Books
 1. [Deep Learning with python - Franchois chollet](https://www.academia.edu/40817740/Deep_Learning_with_Python)
@@ -47,8 +57,7 @@
 10. https://distill.pub/
 11. Art Generation - https://deepart.io/
 
-### Python
-1. fast.ai resources https://forums.fast.ai/t/recommended-python-learning-resources/26888
+
 
 ### Research Papers
 1. Visualizing and Understanding Convolutional Networks - https://arxiv.org/pdf/1311.2901.pdf
