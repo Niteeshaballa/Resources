@@ -57,7 +57,7 @@
 9. http://deeplearning.net/
 10. https://distill.pub/
 11. Art Generation - https://deepart.io/
-
+12.http://jalammar.github.io/
 
 
 ### Research Papers
@@ -77,6 +77,10 @@
 14. Visualizing the Loss Landscape of Neural Nets - https://arxiv.org/pdf/1712.09913.pdf
 15. Wasserstein GAN - https://arxiv.org/pdf/1701.07875.pdf
 16. Perceptual Losses for Real-Time Style Transfer and Super-Resolution - https://arxiv.org/pdf/1603.08155.pdf
+17. Transformers - https://arxiv.org/pdf/1706.03762.pdf
+18. BERT - https://arxiv.org/pdf/1810.04805.pdf
+19. GPT-2 - https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
+20. GPT-3 - https://arxiv.org/pdf/2005.14165.pdf
 
 ### Topic wise Resources
 #### Dataset shift/ drift
@@ -128,4 +132,5 @@
 5. NLP , word Embeddings - 
 6. Blue Score - paper: A method for automatic evaluation of machine translation
 7. Attention Model - paper:Neural machine translation by jointly learning to align and translate, for image captioning - Show , attend and Tell: Neural image caption generation with visual attention.
+
 
