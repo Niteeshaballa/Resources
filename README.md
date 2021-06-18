@@ -83,6 +83,10 @@
 20. GPT-3 - https://arxiv.org/pdf/2005.14165.pdf
 
 ### Topic wise Resources
+#### Machine Leaarning algorithms from scratch
+1. [K-Nearest Neighbours](https://towardsdatascience.com/machine-learning-algorithms-from-start-to-finish-in-python-knn-7a92cce47986)
+
+
 #### Dataset shift/ drift
 1. Covariate shift - https://dkopczyk.quantee.co.uk/covariate_shift/
 2. Types, causes and remediations for dataset shift - https://towardsdatascience.com/understanding-dataset-shift-f2a5a262a766
