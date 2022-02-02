@@ -32,18 +32,19 @@
 
 ### Books
 1. [Deep Learning with python - Franchois chollet](https://www.academia.edu/40817740/Deep_Learning_with_Python)
-2. Deep learning with python – Jason BrownLee
-3. Master machine learning algorithms – Jason BrownLee
-4. Deep learning for nlp – Jason Brownlee
-5. Machine learning mastery with python -Jason brownlee
-6. Introduction to time series forecasting with python – Jason brownlee
-7. Hands-on Machine learning with scikit-learn and tensorflow 
-8. The hundred page machine learning book – andriy burkov
-9. Deep learning with pytorch- Vishnu Subramanian -Packt
-10. NLP with pytorch – Packt
-11. Machine learning yearning – Andrew NG
-12. neuralnetworksanddeeplearning - http://neuralnetworksanddeeplearning.com/index.html
-13. Deep Learning Book - Ian GoodFellow http://faculty.neu.edu.cn/yury/AAI/Textbook/DeepLearningBook.pdf
+2. [Python Data Science Handbook - Jake vanderplas](https://jakevdp.github.io/PythonDataScienceHandbook/)
+3. Deep learning with python – Jason BrownLee
+4. Master machine learning algorithms – Jason BrownLee
+5. Deep learning for nlp – Jason Brownlee
+6. Machine learning mastery with python -Jason brownlee
+7. Introduction to time series forecasting with python – Jason brownlee
+8. Hands-on Machine learning with scikit-learn and tensorflow 
+9. The hundred page machine learning book – andriy burkov
+10. Deep learning with pytorch- Vishnu Subramanian -Packt
+11. NLP with pytorch – Packt
+12. Machine learning yearning – Andrew NG
+13. neuralnetworksanddeeplearning - http://neuralnetworksanddeeplearning.com/index.html
+14. Deep Learning Book - Ian GoodFellow http://faculty.neu.edu.cn/yury/AAI/Textbook/DeepLearningBook.pdf
 
 ### Important Links
 1. http://colah.github.io/
